@@ -1,0 +1,19 @@
+1. What new skills have you learned?
+
+The refactoring process used in this assignment became very useful later on in the course. 
+
+Additionally, learning to look through documentatin proved to be extremely important! 
+
+2. What was easy?
+
+This was a pretty straightforward project. I think the simplicity of what we had to do made it easy to keep the coding process organized
+
+3. What was difficult?
+
+I remember thinking the superscript tag was interesting. That being said, I was able to complete with project with relative ease.
+
+4. How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+I consistently use Procedural thinking to break down big problems into small parts. Then I break those problems down into smaller problems.
+
+I used this to break down the article into a bunch of sentences. This made it easy to markup.
